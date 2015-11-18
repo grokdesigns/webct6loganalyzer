@@ -1,0 +1,28 @@
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #000040;
+}
+table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #000040;
+	border-style:outset;
+}
+.style2 {
+	font-size: x-small;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+}
+.sortlinks {
+	font-size: x-small;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+}
+.alinks {
+	font-size: x-small;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+}
+body {
+	background-color: #F0F0F0;
+}

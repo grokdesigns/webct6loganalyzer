@@ -1,0 +1,39 @@
+table.match {  
+border-width: 1px 1px 1px 1px;  
+border-spacing: 2px;  
+border-style: outset outset outset outset;  
+border-color: gray gray gray gray;  
+border-collapse: separate;  
+background-color: white;  
+}  
+table.match th {  
+border-width: 1px 1px 1px 1px;  
+padding: 1px 1px 1px 1px;  
+border-style: inset inset inset inset;  
+border-color: gray gray gray gray;  
+background-color: white;  
+-moz-border-radius: 0px 0px 0px 0px;  
+}  
+table.match td {  
+border-width: 1px 1px 1px 1px;  
+padding: 1px 1px 1px 1px;  
+border-style: inset inset inset inset;  
+border-color: gray gray gray gray;  
+background-color: white;  
+-moz-border-radius: 0px 0px 0px 0px;  
+}  
+.style2 {font-size: x-small;font-family:Verdana, Arial, Helvetica, sans-serif}
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #000040;
+}
+table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #000040;}
+
+.sortlinks {font-size: x-small;font-family:Verdana, Arial, Helvetica, sans-serif}
+.alinks {font-size: x-small;font-family:Verdana, Arial, Helvetica, sans-serif}
