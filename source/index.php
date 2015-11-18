@@ -68,7 +68,7 @@ I tried to make this code as readable as possible. If you have corrections or se
 ?>
 
 <div align="center">
-<h3><a href="http://grokdesigns.com/index.php/2009/01/27/webct-6-log-analyzer/">Update: Source code now available!<br>Download Here!</a></h3>
+<h3><a href="https://github.com/grokdesigns/webct6loganalyzer" target="_blank">Update: Source code now available!<br>Download Here!</a></h3>
 
   <form id="log_form" name="log_form" method="post" action="mergecsv.php" target="_blank">
     <table border="1" cellpadding="5" cellspacing="0">

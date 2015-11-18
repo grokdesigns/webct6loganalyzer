@@ -66,7 +66,7 @@ $newline=fgets($fh);
 			break;  
 			case 'Current user count:':  
 			$substring = explode($match, $newline);  
-			fputs($out,ereg_replace('[^0-9]','',$substring[1]) . '\r');  
+			fputs($out,ereg_replace('[^0-9]','',$substring[1]) . "\r\n");  
 			break;  
 			}  
 		}  
